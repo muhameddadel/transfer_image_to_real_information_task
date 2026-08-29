@@ -1,0 +1,23 @@
+# Core automation
+uiautomation==2.0.16
+pyautogui==0.9.54
+opencv-python==4.8.1.78
+
+# OCR
+pytesseract==0.3.10
+Pillow==10.1.0
+
+# LLM Integration
+openai==1.3.0
+
+# Data handling
+pandas==2.1.3
+pydantic==2.5.0
+
+# Utilities
+python-dotenv==1.0.0
+loguru==0.7.2
+click==8.1.7
+
+# Image processing
+numpy==1.24.3
