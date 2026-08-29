@@ -1,0 +1,5 @@
+.env
+logs/
+screenshots/
+__pycache__/
+*.pyc
